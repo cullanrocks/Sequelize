@@ -1,0 +1,96 @@
+body {
+    background-color: #FEDE7B;
+    background-image: url("../images/barrel.png");
+    background-size: 6px;
+}
+
+*,
+h1,
+h2,
+h3,
+.mdl-button {
+    font-family: 'Montserrat', sans-serif;
+    /*color: #FEDE7B;*/
+}
+
+#main-headers {
+    /*color: #F3C200;*/
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: #A90100;
+}
+
+.mdl-layout__header {
+	background-color: #A90100;
+}
+
+.mdl-layout__header-row {
+	color: #fff9bf;
+}
+
+.mdl-navigation__link{
+	color: #fff9bf;
+}
+
+.mdl-layout__drawer{
+	background-color: #A90100;
+	color: #fff9bf;
+}
+
+.mdl-card,
+.mdl-card__title-text,
+.mdl-card__supporting-text {
+    margin: 0 auto;
+    background-color: #fff9bf;
+    color: #A90100;
+
+}
+
+.mdl-card__title {
+    text-align: center;
+}
+
+.mdl-card__actions mdl-card--border {
+    margin: 0 auto;
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.mdl-button__ripple-container {
+    /*color: #B2FF59;*/
+    /*background-color: #795548;*/
+}
+
+.mdl-button {}
+
+.form {
+    display: inline;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+}
+
+.label {
+    font-weight: bold;
+}
+
+
+/*.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+}*/
+
+.form-group {
+    margin-bottom: 5px;
+}
